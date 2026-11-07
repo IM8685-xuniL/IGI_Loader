@@ -15,4 +15,4 @@ For this to work just download the files and get the following files into your c
     -InjectIGI.dll
 
 
-Into the games directory i.e   [Dir..]/pc the folder containg the .exe of the game, now run the game by using the Loader (run the IGILoader.exe).Some issues I have seen is mostly every trainer(s) or mod(s) that are currently available cannot be used when running the game through this loader as those trainer(s) check for IGI.exe running on your system even the patch's' (that is provided by Blankspace) debugkeys also does not work. 
+Into the games directory i.e   [Dir..]/pc the folder containg the .exe of the game, now run the game by using the Loader (run the IGILoader.exe).Some issues I have seen is mostly every trainer(s) or mod(s) that are currently available cannot be used when running the game through this loader as those trainer(s) check for IGI.exe running on your system even the patch's' (that is provided by BlanknameES ) debugkeys also does not work. 
